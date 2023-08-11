@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_fn_demo_0710_repo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7187",
+      "launchBrowser": false
+    }
+  }
+}
